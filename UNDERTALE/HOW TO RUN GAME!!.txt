@@ -1,0 +1,5 @@
+To play game, go inside the 'Undertale' folder, right click and run 'Undertale' as administrator
+
+If you get any missing dll errors, go inside the _Redist folder and install all 6 programs in the folder
+
+Game is updated to v1.08

@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":111,"indent":0,"parameters":[0,28,0]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":231,"indent":1,"parameters":[4,"Parallax_Debri_01",1,0,400,300,100,100,255,0]},{"code":223,"indent":1,"parameters":[[-68,-102,-85,0],30,false]},{"code":112,"indent":1,"parameters":[]},{"code":225,"indent":2,"parameters":[1,3,60,false]},{"code":232,"indent":2,"parameters":[4,0,1,0,420,300,100,100,255,0,120,true]},{"code":232,"indent":2,"parameters":[4,0,1,0,400,300,100,100,255,0,120,true]},{"code":0,"indent":2,"parameters":[]},{"code":413,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Wreckage","switchId":27,"trigger":2},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
